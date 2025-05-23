@@ -1,5 +1,3 @@
-from logging.config import listen
-
-
-liste=[3.14,2.54,"cpu","windows 10 pro","6 bayt"]
-print(liste)
+karmasik=[3.14,2.54,"CPU","windows 10 pro","6 bayt"]
+#karmasik isimli liste oluşturuldu
+print(karmasik)

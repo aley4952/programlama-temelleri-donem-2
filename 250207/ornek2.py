@@ -1,2 +1,2 @@
-meyve=["portakal","çilek","elma"] #en sevdiğim meyve 1. meyve
-print (meyve[1])
+meyveler=["muz","kiraz","şeftali"]
+print(meyveler[1])

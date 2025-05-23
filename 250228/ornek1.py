@@ -1,3 +1,4 @@
-ders=["B","İ","L","İ","Ş","İ","M"] #listeyi alfabetik olarak sırala
+ders=["B","İ","L","İ","Ş","İ","M"]
+#Listeyi alfabetik olarak sırala
 ders.sort()
 print(ders)
